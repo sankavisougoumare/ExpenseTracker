@@ -1,0 +1,5 @@
+category,budget,spent,remaining,status
+Entertainment,1000,800,200,WARNING
+Food,1000,730,270,WITHIN BUDGET
+Shopping,2000,1950,50,WARNING
+Transport,500,300,200,WITHIN BUDGET

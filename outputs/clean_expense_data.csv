@@ -1,0 +1,11 @@
+date,category,amount,payment_method,description,month,month_name,year,day
+2026-10-01,Food,250,UPI,Lunch,10,October,2026,Thursday
+2026-10-01,Transport,80,CASH,Bus,10,October,2026,Thursday
+2026-10-02,Food,180,CARD,Dinner,10,October,2026,Friday
+2026-10-02,Shopping,1200,UPI,Clothes,10,October,2026,Friday
+2026-10-03,Transport,100,UPI,Auto,10,October,2026,Saturday
+2026-10-03,Entertainment,500,CARD,Movie,10,October,2026,Saturday
+2026-10-04,Food,300,UPI,Dinner,10,October,2026,Sunday
+2026-10-04,Shopping,750,CASH,Groceries,10,October,2026,Sunday
+2026-10-05,Transport,120,UPI,Bus,10,October,2026,Monday
+2026-10-05,Entertainment,300,CARD,Game,10,October,2026,Monday
